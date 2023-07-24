@@ -180,7 +180,7 @@ export default async function Home() {
             Sunset on the Matterhorn North
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            This is the Matterhorn Art Studio's launch edition &mdash; by artist Chris Banford. 
+            This is the Matterhorn Art Studio&apos;s launch edition &mdash; by artist Chris Banford. 
           </p>
         </FadeIn>
       </Container>
